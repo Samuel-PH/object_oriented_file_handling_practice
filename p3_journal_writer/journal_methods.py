@@ -11,4 +11,5 @@ class InteractiveJournal:
                 more_lines = input("Are there more lines y/n? ").strip().lower()
                 if more_lines != 'y':
                     break
+                
         print(f"[+] Journal saved to {self.output_file}")

@@ -17,7 +17,6 @@ class NumberSeparator:
                 self._write_line(number, out_one, out_two)
 
     def _write_headers(self, out_one, out_two):
-        """Creates a nice header at the top of the text files."""
         out_one.write("=========================\n")
         out_one.write("  EXTRACTED EVEN NUMBERS \n")
         out_one.write("=========================\n\n")
@@ -27,7 +26,6 @@ class NumberSeparator:
         out_two.write("=========================\n\n")
 
     def _write_line(self, number, out_one, out_two):
-        """Formats the numbers as a neat list with bullet points."""
         if number % 2 == 0:
             out_one.write(f" -> {number}\n")
         else:

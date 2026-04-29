@@ -2,14 +2,14 @@
   EVEN NUMBERS (SQUARED RESULTS)  
 ==================================
 
- Original: 14    | Squared: 196
- Original: 90    | Squared: 8100
- Original: 20    | Squared: 400
- Original: 56    | Squared: 3136
- Original: 98    | Squared: 9604
- Original: 38    | Squared: 1444
- Original: 62    | Squared: 3844
+ Original: 68    | Squared: 4624
+ Original: 10    | Squared: 100
+ Original: 74    | Squared: 5476
+ Original: 86    | Squared: 7396
+ Original: 74    | Squared: 5476
  Original: 6     | Squared: 36
- Original: 42    | Squared: 1764
- Original: 50    | Squared: 2500
- Original: 62    | Squared: 3844
+ Original: 18    | Squared: 324
+ Original: 26    | Squared: 676
+ Original: 58    | Squared: 3364
+ Original: 8     | Squared: 64
+ Original: 26    | Squared: 676

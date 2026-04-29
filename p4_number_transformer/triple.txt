@@ -2,12 +2,12 @@
    ODD NUMBERS (CUBED RESULTS)    
 ==================================
 
- Original: 95    | Cubed:   857375
- Original: 17    | Cubed:   4913
+ Original: 87    | Cubed:   658503
+ Original: 25    | Cubed:   15625
+ Original: 19    | Cubed:   6859
+ Original: 73    | Cubed:   389017
+ Original: 45    | Cubed:   91125
+ Original: 29    | Cubed:   24389
+ Original: 33    | Cubed:   35937
  Original: 9     | Cubed:   729
- Original: 1     | Cubed:   1
- Original: 43    | Cubed:   79507
- Original: 37    | Cubed:   50653
- Original: 91    | Cubed:   753571
- Original: 35    | Cubed:   42875
- Original: 31    | Cubed:   29791
+ Original: 15    | Cubed:   3375

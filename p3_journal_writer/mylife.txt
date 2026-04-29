@@ -1,9 +1,12 @@
-DO NO EVIL
-SEE NO EVIL
-SPEAK NO EVIL
 
 ========================================
  ENTRY DATE: Wednesday, April 29, 2026
 ========================================
- • hello
- • i am sam
+ ï¿½ Hello
+ ï¿½ my name is dave
+ ï¿½ i am 20 years old
+
+========================================
+ ENTRY DATE: Wednesday, April 29, 2026
+========================================
+ ï¿½ this is the 2nd entry on the journal

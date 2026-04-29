@@ -9,7 +9,6 @@ class NumberSeparator:
              open(self.file_one, 'w') as out_one, \
              open(self.file_two, 'w') as out_two:
             
-            # Print our beautiful headers first
             self._write_headers(out_one, out_two)
             
             for line in infile:

@@ -1,3 +1,5 @@
+from datetime import datetime
+
 class GwaAnalyzer:
     def __init__(self, input_file):
         self.input_file = input_file
@@ -15,4 +17,19 @@ class GwaAnalyzer:
                     highest_gwa = gwa
                     top_student = name
 
-        print(f"[+] Top Student found: {top_student} with a GWA of {highest_gwa}")
+        report_file = self.input_file.replace(".txt", "_report.txt")
+        
+        with open(report_file, 'w') as out:
+            out.write("+" + "-"*38 + "+\n")
+            out.write("|       ACADEMIC EXCELLENCE REPORT     |\n")
+            out.write("+" + "-"*38 + "+\n")
+            
+            # Get the current date and time
+            current_time = datetime.now().strftime("%B %d, %Y at %I:%M %p")
+            out.write(f"  Generated on: {current_time}\n\n")
+            
+            out.write(f"  Top Performing Student : {top_student}\n")
+            out.write(f"  Grade Weighted Average : {highest_gwa}\n")
+            out.write("+" + "-"*38 + "+\n")
+            
+        print(f"[+] Report generated beautifully at {report_file}")

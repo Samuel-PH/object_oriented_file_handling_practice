@@ -1,11 +1,15 @@
-196
-8100
-400
-3136
-9604
-1444
-3844
-36
-1764
-2500
-3844
+==================================
+  EVEN NUMBERS (SQUARED RESULTS)  
+==================================
+
+ Original: 14    | Squared: 196
+ Original: 90    | Squared: 8100
+ Original: 20    | Squared: 400
+ Original: 56    | Squared: 3136
+ Original: 98    | Squared: 9604
+ Original: 38    | Squared: 1444
+ Original: 62    | Squared: 3844
+ Original: 6     | Squared: 36
+ Original: 42    | Squared: 1764
+ Original: 50    | Squared: 2500
+ Original: 62    | Squared: 3844

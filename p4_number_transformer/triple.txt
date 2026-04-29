@@ -1,9 +1,13 @@
-857375
-4913
-729
-1
-79507
-50653
-753571
-42875
-29791
+==================================
+   ODD NUMBERS (CUBED RESULTS)    
+==================================
+
+ Original: 95    | Cubed:   857375
+ Original: 17    | Cubed:   4913
+ Original: 9     | Cubed:   729
+ Original: 1     | Cubed:   1
+ Original: 43    | Cubed:   79507
+ Original: 37    | Cubed:   50653
+ Original: 91    | Cubed:   753571
+ Original: 35    | Cubed:   42875
+ Original: 31    | Cubed:   29791
